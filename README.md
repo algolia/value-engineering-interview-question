@@ -18,6 +18,7 @@ For the top 1000 queries by query volume (total number of queries), identify the
 
 ### Guidelines:
 - The task can be solved in either SQL or Python.
+- The data is stored in parquet files, and is available in the `data` directory.
 - We are not looking for a complete solution, we are interested in seeing how you approach the problem and what you are able to accomplish in the time given.
 
 ### Assumptions that can be made:
